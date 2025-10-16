@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: beefd;
+    font-sytle: normal;
+    font-weight: 500;
+    src: url('/fonts/beefd.ttf')
+}
+
+body {
+    background: black;
+}
